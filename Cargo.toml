@@ -1,0 +1,6 @@
+[package]
+name = "textinput"
+version = "0.1.0"
+edition = "2021"
+description = "单行文本输入框的纯逻辑：文本 / 光标 / 选区 / 按词跳转 / 历史。不认识引擎，不认识 UI，也不认识任何业务，零依赖。"
+license = "MIT"
